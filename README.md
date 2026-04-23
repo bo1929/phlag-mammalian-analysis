@@ -1,4 +1,6 @@
 # Phlag analysis of the mammalian phylogeny
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19713368.svg)](https://doi.org/10.5281/zenodo.19713368)
+
 This repository contains the Phlag analysis results, gene trees, species trees, and supporting data for the mammalian dataset (experiment E4) presented in:
 
 > Şapcı AOB, Arasti S, Braun EL, Mirarab S. **Phlag: Scalable detection of genomic regions with unexplained phylogenetic heterogeneity.** Bioinformatics, ISMB issue (2026).

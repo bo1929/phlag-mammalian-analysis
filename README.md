@@ -9,7 +9,7 @@ Phlag is available at [github.com/bo1929/phlag](https://github.com/bo1929/phlag)
 
 ## Files
 
-- `alltrees.tree.gz`: Compressed gene trees (19,465 trees) inferred from chromosome 3 of the mammalian alignment by [Foley et al.](https://doi.org/10.1126/science.abn7829). We estimated gene trees using IQ-TREE under the GTR+G4 model from 1Kbp subalignments selected with minimum missing data from each 10Kbp segment.
+- `alltrees.tree.gz`: Compressed gene trees (19,465 trees) inferred from chromosome 3 of the mammalian alignment by [Foley et al.](https://www.science.org/doi/10.1126/science.abl8189). We estimated gene trees using IQ-TREE under the GTR+G4 model from 1Kbp subalignments selected with minimum missing data from each 10Kbp segment.
 
 - `labelled_species_tree.nwk`: Species tree in Newick format with 241 mammalian taxa and internal nodes labelled `I0`–`I239` with branch lengths.
 
